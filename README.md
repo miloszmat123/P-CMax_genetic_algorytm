@@ -1,4 +1,4 @@
-# P-CMax_genetic_algorytm
+# P||CMax_genetic_algorytm
 Solution of P-CMax problem using genetic algorythm
 
 
@@ -14,6 +14,14 @@ Solution of P-CMax problem using genetic algorythm
 
 # How to choose data 
 You can choose ready data from `data` folder or use the data generator
+
+
+# What is the P||CMax problem in computer science
+In the P || Cmax problem, the task is to arrange 𝑛 tasks on 𝑚 processors in such a way that the completion time of all tasks on all processors is as short as possible.
+
+
+# What is a genetic algorithm?
+In computer science and operations research, a genetic algorithm is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms. Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on biologically inspired operators such as mutation, crossover and selection.
 
 
 
